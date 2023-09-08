@@ -1,6 +1,6 @@
 <code>
 What is API and Why Is It Important?
-API (Application Programming Interface software) is a set of instructions, standards or requirements that enables a software or app to employ features/services of another app, platform or device for better services. In short, it’s something that lets apps communicate with each other.
+API (Application Programming Interface software) is a set of instructions, standards or requirements that enables a software or app to employ features/services of another app, platform, or device for better services. In short, it’s something that lets apps communicate with each other.
 
 For example, when we hit the ‘Connect Facebook’ button on Candy Crush, it does not ask us to enter our Facebook account details. Rather, it accesses the data from the Facebook server and lets us enjoy playing – all thanks to API.
 
